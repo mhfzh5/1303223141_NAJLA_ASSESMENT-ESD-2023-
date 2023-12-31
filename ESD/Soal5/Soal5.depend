@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1704026149 source:e:\esd\soal5\main.cpp
+	<iostream>
+	<string>
+	<cmath>
+
